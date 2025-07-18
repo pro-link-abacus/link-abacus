@@ -78,4 +78,6 @@ The **Abacus link** is the first point of contact when accessing **Abacus Market
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/build/current.webp" alt="Abacus Login through the Link" style="max-width: 100%;"></a>
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/build/operation.webp" alt="Abacus Register via the Link" style="max-width: 100%;"></a>
 
-Update:  14.07.2025 03:55:38 url is live and functioning
+
+
+Update:  18.07.2025 15:08:43
