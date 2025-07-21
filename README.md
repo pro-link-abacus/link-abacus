@@ -80,4 +80,6 @@ The **Abacus link** is the first point of contact when accessing **Abacus Market
 
 
 
-Update:  18.07.2025 15:08:43
+
+
+Update:  21 July link is live and functioning properly
