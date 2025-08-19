@@ -88,4 +88,6 @@ The **Abacus link** is the first point of contact when accessing **Abacus Market
 
 
 
-Update:  08/13/2025 link is responsive and live
+
+
+Update:  19.08.2025 Internal navigation
