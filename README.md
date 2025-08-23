@@ -90,4 +90,6 @@ The **Abacus link** is the first point of contact when accessing **Abacus Market
 
 
 
-Update:  19.08.2025 Internal navigation
+
+
+Update:  23 August 2025 link is active and operational
