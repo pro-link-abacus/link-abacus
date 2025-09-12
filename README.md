@@ -92,4 +92,6 @@ The **Abacus link** is the first point of contact when accessing **Abacus Market
 
 
 
-Update:  23 August 2025 link is active and operational
+
+
+Update:  Friday 12 September 2025
